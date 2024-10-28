@@ -142,7 +142,7 @@ with col4:
 # Industry Standard Comparison Section
 st.subheader("Benchmarking Against Industry Standards")
 
-# Sample standards (you may replace these with actual benchmarks)
+# Sample standards 
 industry_avg_processing_time = 150  # minutes
 industry_avg_delay = 20  # minutes
 
